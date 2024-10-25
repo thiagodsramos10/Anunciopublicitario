@@ -8,4 +8,12 @@ h1{
     color: #2c5788
 }
 
-h2 { }
+h2 { 
+    background-color: #013765;
+    color:aliceblue;
+}
+
+img { 
+    width: 500px;
+    height: 300px;
+}
